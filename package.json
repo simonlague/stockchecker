@@ -1,0 +1,18 @@
+{
+    "name": "stockchecker",
+    "version": "1.0.0",
+    "description": "A node package to check a list of websites for changes in stock when called",
+    "main": "bin/index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "Simon Lague",
+    "license": "ISC",
+    "dependencies": {
+        "puppeteer": "^15.3.2",
+        "pushover-notifications": "^1.2.2"
+    },
+    "bin": {
+        "stockchecker": "bin/index.js"
+    }
+}
