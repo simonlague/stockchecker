@@ -1,3 +1,4 @@
+// DO NOT COMMIT pushoverApiKey & pushoverUserKey
 {
     "runHeadless": true,
     "notifyOnNodeNotFound": true,
