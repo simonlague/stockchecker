@@ -9,7 +9,7 @@
     "author": "Simon Lague",
     "license": "ISC",
     "dependencies": {
-        "puppeteer": "^16.1.0",
+        "puppeteer": "^16.2.0",
         "pushover-notifications": "^1.2.2"
     },
     "bin": {
