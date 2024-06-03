@@ -10,7 +10,7 @@
     "license": "ISC",
     "dependencies": {
         "puppeteer": "^22.10.0",
-        "pushover-notifications": "^1.2.2"
+        "pushover-notifications": "^1.2.3"
     },
     "bin": {
         "stockchecker": "bin/index.js"
